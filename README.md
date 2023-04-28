@@ -1,7 +1,7 @@
 # Calculator2
 Калькулятор с невидимыми кнопками и меняющимися темами
 
-![Screenshot1](screenshot.png)
+![Screenshot1.png](screenshot.png)
 
 package com.example.myapplication;
 
